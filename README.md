@@ -9,6 +9,7 @@
 * JPA Auditing
 * Mustache
 * Spring Security
+* OAuth 2.0
 
 ## 프로젝트 환경
 * Java 8
